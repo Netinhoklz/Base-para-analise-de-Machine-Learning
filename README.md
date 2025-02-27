@@ -51,13 +51,6 @@ Este repositório fornece um framework em Python robusto para simplificar o dese
 
 ---
 
-## 📊 Visualizações Exemplo  
-| Matriz de Confusão | Curva ROC | Importância de Features |
-|------------------|-----------|--------------------|
-| ![Matriz de Confusão](https://via.placeholder.com/200x150/FF6B6B/FFFFFF?text=CM) | ![Curva ROC](https://via.placeholder.com/200x150/4ECDC4/FFFFFF?text=ROC) | ![Features](https://via.placeholder.com/200x150/45B7D1/FFFFFF?text=Features) |
-
----
-
 ## 🛠️ Como Usar  
 
 ### Pré-requisitos  
